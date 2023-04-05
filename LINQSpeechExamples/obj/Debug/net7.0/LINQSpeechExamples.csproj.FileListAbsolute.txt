@@ -1,0 +1,16 @@
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\bin\Debug\net7.0\LINQSpeechExamples.exe
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\bin\Debug\net7.0\LINQSpeechExamples.deps.json
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\bin\Debug\net7.0\LINQSpeechExamples.runtimeconfig.json
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\bin\Debug\net7.0\LINQSpeechExamples.dll
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\bin\Debug\net7.0\LINQSpeechExamples.pdb
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\LINQSpeechExamples.csproj.AssemblyReference.cache
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\LINQSpeechExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\LINQSpeechExamples.AssemblyInfoInputs.cache
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\LINQSpeechExamples.AssemblyInfo.cs
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\LINQSpeechExamples.csproj.CoreCompileInputs.cache
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\LINQSpeechExamples.dll
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\refint\LINQSpeechExamples.dll
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\LINQSpeechExamples.pdb
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\LINQSpeechExamples.genruntimeconfig.cache
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\obj\Debug\net7.0\ref\LINQSpeechExamples.dll
+D:\Projects\LINQSpeechExamples\LINQSpeechExamples\bin\Debug\net7.0\data.txt
